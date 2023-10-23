@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "articles": [
+    {
+      "nama": "htm;l",
+      "title": "aaa",
+      "description": "aaa",
+      "id": 1
+    },
+    {
+      "nama": "kjbklj",
+      "title": "afga",
+      "description": "afsga",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "nama": "Fantasy",
+      "id": 2
+    },
+    {
+      "nama": "romance",
+      "id": 3
+    },
+    {
+      "nama": "action",
+      "id": 4
+    }
+  ]
+}
